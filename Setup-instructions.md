@@ -1,7 +1,6 @@
 For this workshop you will need to have the following software installed on your laptop **BEFORE** the workshop:
 * R (https://cran.r-project.org/bin/windows/base/)
 * R-Studio https://rstudio.com/products/rstudio/download/#download
-Additionally, you will need to register for a GitHub account. Please see instructions below for setting up your laptop for the workshop.
 
 ## Install/upgrade your R and R studio versions
 See instructions here: https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing  
