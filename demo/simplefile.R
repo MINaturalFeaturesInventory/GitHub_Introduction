@@ -2,4 +2,7 @@
 some_things = sample(1:30)
 some_things
 
+some_things +1.5
+5+4
+
 plot(some_things, pch=23)
