@@ -1,6 +1,7 @@
 For this workshop you will need to have the following software installed on your laptop **BEFORE** the workshop:
 * R (https://cran.r-project.org/bin/windows/base/)
-* R-Studio https://rstudio.com/products/rstudio/download/#download
+* R-Studio (https://rstudio.com/products/rstudio/download/#download)
+* Git (https://git-scm.com/downloads)
 
 ## Install/upgrade your R and R studio versions
 See instructions here: https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing  
@@ -16,6 +17,9 @@ You will need:
 * access to your .edu email address
 * Follow these instrucutions: https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-an-educator-or-researcher-discount
 * Use your .edu email address (you can have more than one email associationed with your personal GitHub account)
+
+## Install Git
+See Jenny Bryan’s happygitwithr installation instructions here for Windows/Mac/Linux OS: https://happygitwithr.com/install-git.html. Mac Users Note: the command line application is called Terminal. Open finder and type “terminal.” 
 
 **Questions?** Post in rladies slack rladies-eastlansing.slack.com in the #how-to-vc channel.
 
